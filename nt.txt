@@ -1,4 +1,4 @@
-bar
+bar graph
 scaterr
 pie
 seaborn
